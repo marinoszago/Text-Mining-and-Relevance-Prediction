@@ -4,3 +4,4 @@
 A Spark/Scala application for successfully predicting the relevance value of a search query to a set of corresponding search results.
 
 
+Joined Work with Ilias Karatsin(@iliaskaras)
