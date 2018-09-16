@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/product_descriptions.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/product_descriptions.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/attributes.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/attributes.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/reviews.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/reviews.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/train2.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/train2.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/FirstFileProject.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/FirstFileProject.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/train.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/train.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/stopwords.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/stopwords.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/zago/Desktop/TextMiningProject/src/main/resources/test.csv,/home/zago/Desktop/TextMiningProject/target/scala-2.11/classes/test.csv)[0m
